@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6d84ed15eb836db0",
+        "id": "89272f61b3ceac6e",
         "type": "tabs",
         "children": [
           {
-            "id": "84405aec0f10edc5",
+            "id": "af21bd98034de139",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "182f84fd0ff4d9cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9f89296e6c7b2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Defer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15a88b5fbaef5635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "File Management.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "File Management.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,9 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15a88b5fbaef5635",
+  "active": "af21bd98034de139",
   "lastOpenFiles": [
     "Defer.md",
+    "Web Requests.md",
     "File Management.md",
     "Methods.md",
     "Functions.md"
