@@ -1,0 +1,1 @@
+Defer controls the execution flow of a program. It is always preceded by a function call. If there are multiple defer statements, the execution occurs in **LIFO** manner, i.e, the last defer statement is executed first and the first one is executed last
