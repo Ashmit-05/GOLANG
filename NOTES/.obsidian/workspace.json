@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "89272f61b3ceac6e",
+        "id": "1f73b7624fc9124d",
         "type": "tabs",
         "children": [
           {
-            "id": "af21bd98034de139",
+            "id": "58e07558f26e30e3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ed85690875729a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MOD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MOD.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed85690875729a09",
+  "active": "58e07558f26e30e3",
   "lastOpenFiles": [
     "MOD.md",
     "Defer.md",
