@@ -1,0 +1,28 @@
+go 1.20
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversion
+	./05time
+	./06pointers
+	./07arrays
+	./08slices
+	./09maps
+	./10struct
+	./11loops
+	./12ifelse
+	./13switchcase
+	./14functions
+	./15methods
+	./16defer
+	./17files
+	./18webrequests
+	./19urls
+	./20webreqverbs
+	./21json
+	./22modules
+	./23buildapi
+	./24mongodbapi
+)

@@ -14,8 +14,33 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "990e7c6adf478338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "284dc250f4395a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bson.M vs bson.D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bson.M vs bson.D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "bson.M vs bson.D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "bson.M vs bson.D.md"
+              }
             }
           }
         ]
@@ -138,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58e07558f26e30e3",
+  "active": "284dc250f4395a42",
   "lastOpenFiles": [
+    "Context.md",
+    "bson.M vs bson.D.md",
     "MOD.md",
     "Defer.md",
     "Web Requests.md",
