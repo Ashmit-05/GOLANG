@@ -1,4 +1,4 @@
-package netflix
+package netflixController
 
 import (
 	"context"
@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	netflix "github.com/Ashmit-05/mongodbapi/models"
+	netflixModel "github.com/Ashmit-05/mongodbapi/models"
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
@@ -44,7 +44,7 @@ func init() { // special function in Go that is automatically called when the co
 // MONGODB helpers - file
 
 // insert 1 record
-func insertOneMovie(movie netflix.Netflix) {
+func insertOneMovie(movie netflixModel.Netflix) {
 	result, err := collection.InsertOne(context.Background(), movie) // always pass the context when performing any operation on the db
 
 	if err != nil {
@@ -123,7 +123,7 @@ func CreateMovie(w http.ResponseWriter,r *http.Request)  {
 	w.Header().Set("Content-Type","application/json")
 	w.Header().Set("Allow-Control-Allow-Methods","POST")
 
-	var movie netflix.Netflix
+	var movie netflixModel.Netflix
 
 	_ = json.NewDecoder(r.Body).Decode(&movie)
 	insertOneMovie(movie)

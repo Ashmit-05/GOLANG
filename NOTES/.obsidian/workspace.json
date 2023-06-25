@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1f73b7624fc9124d",
+        "id": "14b4e577098bd889",
         "type": "tabs",
         "children": [
           {
-            "id": "58e07558f26e30e3",
+            "id": "83529add52bb95fa",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "990e7c6adf478338",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Context.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "284dc250f4395a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bson.M vs bson.D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bson.M vs bson.D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bson.M vs bson.D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bson.M vs bson.D.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "284dc250f4395a42",
+  "active": "14f2417865309913",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled.canvas",
     "Context.md",
     "bson.M vs bson.D.md",
     "MOD.md",

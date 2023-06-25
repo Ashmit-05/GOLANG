@@ -1,4 +1,4 @@
-package netflix
+package netflixModel
 
 import "go.mongodb.org/mongo-driver/bson/primitive"
 
