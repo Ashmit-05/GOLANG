@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "1d3228014bb8a904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurrency vs Parallelism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concurrency vs Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concurrency vs Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Concurrency vs Parallelism.md"
+              }
             }
           }
         ]
@@ -138,8 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14f2417865309913",
+  "active": "1d3228014bb8a904",
   "lastOpenFiles": [
+    "Pasted image 20230627013345.png",
+    "Pasted image 20230627013155.png",
+    "Pasted image 20230627012742.png",
+    "Concurrency vs Parallelism.md",
     "Untitled",
     "Untitled.canvas",
     "Context.md",
