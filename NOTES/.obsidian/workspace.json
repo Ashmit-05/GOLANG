@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83529add52bb95fa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "1d3228014bb8a904",
             "type": "leaf",
             "state": {
@@ -28,19 +20,18 @@
             }
           },
           {
-            "id": "c682f8a2e4c7253e",
+            "id": "c0f9dea8127f7914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waitgroups.md",
+                "file": "Mutex.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waitgroups.md",
+                "file": "Concurrency vs Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waitgroups.md",
+                "file": "Concurrency vs Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waitgroups.md"
+                "file": "Concurrency vs Parallelism.md"
               }
             }
           }
@@ -167,9 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c682f8a2e4c7253e",
+  "active": "1d3228014bb8a904",
   "lastOpenFiles": [
+    "Mutex.md",
     "Concurrency vs Parallelism.md",
+    "Slices.md",
+    "Data Types.md",
+    "Arrays.md",
     "Waitgroups.md",
     "Pasted image 20230627013345.png",
     "Pasted image 20230627013155.png",

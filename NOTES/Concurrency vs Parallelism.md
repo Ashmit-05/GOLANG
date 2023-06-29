@@ -12,3 +12,5 @@ In essence, concurrency in Go allows for the design of programs that can efficie
 ![[Pasted image 20230627013345.png]]
 
 **We use the 'go' keyword to create a goroutine**
+
+See [[Mutex]] for more info
