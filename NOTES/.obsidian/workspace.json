@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26f772c20c8052f5",
+            "id": "5f819711e25ab19d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Deadlocks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deadlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Deadlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Deadlocks.md"
+              }
             }
           }
         ]
@@ -138,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26f772c20c8052f5",
+  "active": "5f819711e25ab19d",
   "lastOpenFiles": [
-    "Goroutines.md",
-    "Race Conditions.md",
-    "Web Requests.md",
     "Waitgroups.md",
+    "Race Conditions.md",
+    "Deadlocks.md",
+    "Mutex.md",
+    "Goroutines.md",
+    "Channels.md",
+    "Web Requests.md",
     "Switch Case.md",
     "Untitled.canvas",
     "Slices.md",
     "Arrays.md",
     "Pointers.md",
-    "Mutex.md",
     "MOD.md",
     "Methods.md",
     "General Information.md",

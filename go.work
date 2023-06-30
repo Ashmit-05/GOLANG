@@ -27,4 +27,5 @@ use (
 	./24mongodbapi
 	./25goroutines
 	./26mutexAndAwaitGroups
+	./27channels
 )

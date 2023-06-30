@@ -11,6 +11,6 @@ For instance, if both [[Goroutines]] read the value of `count` simultaneously, t
 
 Race conditions can lead to inconsistent and unpredictable program behavior, making debugging and understanding code behavior difficult. These issues are particularly tricky because they might not occur consistently and may depend on the timing and scheduling of the [[Goroutines]].
 
-To prevent race conditions, Go provides synchronization primitives such as locks, channels, and other mechanisms. By properly using these synchronization techniques, you can ensure that only one goroutine accesses shared data at a time, preventing conflicting modifications.
+To prevent race conditions, Go provides synchronization primitives such as [[Deadlocks]], [[Channels]], and other mechanisms. By properly using these synchronization techniques, you can ensure that only one goroutine accesses shared data at a time, preventing conflicting modifications.
 
 In summary, [[Goroutines]] enable concurrent(see [[Concurrency vs Parallelism]]) execution in Go, allowing multiple tasks to run simultaneously. However, if not synchronized properly, these [[Goroutines]] can lead to race conditions where concurrent access to shared data causes unexpected and incorrect results. To avoid race conditions, synchronization mechanisms should be used to coordinate access to shared resources and ensure consistent and predictable program behavior.
