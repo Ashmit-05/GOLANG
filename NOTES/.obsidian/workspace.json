@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "14b4e577098bd889",
+        "id": "3cc702bb998d938a",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3228014bb8a904",
+            "id": "26f772c20c8052f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concurrency vs Parallelism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0f9dea8127f7914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mutex.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency vs Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurrency vs Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concurrency vs Parallelism.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,26 +138,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d3228014bb8a904",
+  "active": "26f772c20c8052f5",
   "lastOpenFiles": [
-    "Mutex.md",
-    "Concurrency vs Parallelism.md",
-    "Slices.md",
-    "Data Types.md",
-    "Arrays.md",
+    "Goroutines.md",
+    "Race Conditions.md",
+    "Web Requests.md",
     "Waitgroups.md",
+    "Switch Case.md",
+    "Untitled.canvas",
+    "Slices.md",
+    "Arrays.md",
+    "Pointers.md",
+    "Mutex.md",
+    "MOD.md",
+    "Methods.md",
+    "General Information.md",
+    "Functions.md",
+    "File Management.md",
+    "Maps.md",
+    "Loops.md",
+    "Defer.md",
+    "Data Types.md",
+    "Context.md",
+    "Concurrency vs Parallelism.md",
+    "bson.M vs bson.D.md",
     "Pasted image 20230627013345.png",
     "Pasted image 20230627013155.png",
     "Pasted image 20230627012742.png",
-    "Untitled",
-    "Untitled.canvas",
-    "Context.md",
-    "bson.M vs bson.D.md",
-    "MOD.md",
-    "Defer.md",
-    "Web Requests.md",
-    "File Management.md",
-    "Methods.md",
-    "Functions.md"
+    "Untitled"
   ]
 }

@@ -33,4 +33,4 @@ Here's an explanation of each type:
 
 Both `bson.M` and `bson.D` are commonly used when working with the MongoDB Go driver to represent queries, updates, and documents that need to be stored or retrieved from the database.
 
-It's worth noting that while `bson.M` and `bson.D` have different underlying data structures (map vs. slice), they can be converted back and forth using helper functions provided by the MongoDB Go driver, allowing you to easily switch between the two representations as needed.
+It's worth noting that while `bson.M` and `bson.D` have different underlying data structures ([[Maps]] vs. [[Slices]]), they can be converted back and forth using helper functions provided by the MongoDB Go driver, allowing you to easily switch between the two representations as needed.

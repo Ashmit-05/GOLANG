@@ -1,4 +1,4 @@
-1. jEverything in go is a type. Data types, methods, functions, everything.
+1. jEverything in go is a type. [[Data Types]], [[Methods]], [[Functions]], everything.
 2. Go does not support OOPs. Atleast not directly. It has structs and pointers. The idea behind this is that a developer should be able to understand what is happening just by looking at the code. He shouldn't have to navigate a lot of files to understand the parent classes and the child classes.
 3. The lexer in go does a lot of the dirty work for you. You don't need to line up your code or format it every time. When you have written the code, just press Ctrl + S to save the code and the lexer will line up everything for you. Also, the language syntax expects you to put up semicolons after every line, but you can avoid that as the lexer does it for you.
 4. If there are any unused variables, it throws an error

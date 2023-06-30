@@ -1,0 +1,3 @@
+In programming, especially in languages like Go, a goroutine is a lightweight thread of execution that allows concurrent programming([[Concurrency vs Parallelism]]). It's like a small worker that can run alongside other goroutines, independently and concurrently, within the same program.
+
+When you write code in Go, you can create multiple goroutines to perform different tasks simultaneously. These goroutines are managed by the Go runtime, which handles their execution and scheduling. By using goroutines, you can achieve concurrent execution, making your programs faster and more efficient.

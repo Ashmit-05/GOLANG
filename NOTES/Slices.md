@@ -1,4 +1,4 @@
-Slices are used very often in Go. Think of them as dynamic arrays
+Slices are used very often in Go. Think of them as dynamic [[Arrays]]
 ## Declaration
 
 ### Method 1

@@ -25,4 +25,6 @@ use (
 	./22modules
 	./23buildapi
 	./24mongodbapi
+	./25goroutines
+	./26mutexAndAwaitGroups
 )
