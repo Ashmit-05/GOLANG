@@ -11,12 +11,8 @@
             "id": "5f819711e25ab19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deadlocks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deadlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deadlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deadlocks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +140,9 @@
   },
   "active": "5f819711e25ab19d",
   "lastOpenFiles": [
+    "Deadlocks.md",
     "Waitgroups.md",
     "Race Conditions.md",
-    "Deadlocks.md",
     "Mutex.md",
     "Goroutines.md",
     "Channels.md",
